@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseLab2", "ParseLab2\ParseLab2.csproj", "{D94A5122-F03C-4315-9046-6423B40F9F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94A5122-F03C-4315-9046-6423B40F9F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94A5122-F03C-4315-9046-6423B40F9F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94A5122-F03C-4315-9046-6423B40F9F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94A5122-F03C-4315-9046-6423B40F9F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857ACB66-8754-42D2-A8DA-5A8391457A4C}
+	EndGlobalSection
+EndGlobal
